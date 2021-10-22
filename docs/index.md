@@ -18,7 +18,22 @@
 抜粋 引用元: http://enrique5581.net/nakano-nobuko-life-brain/
 
 <style>
+body {
+    background: lightcyan;
+    width: 800px;
+    margin: auto;
+}
 
+h1 {
+    color: maroon;
+    text-align: center;
+}
+
+p {
+    color: gray;
+    border: 1px solid gray;
+    padding: 10px;
+}
 </style>
 
 <p>おまけの人生ですから、楽しんでいただきたい。</p>
