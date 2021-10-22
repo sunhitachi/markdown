@@ -16,16 +16,18 @@
 おまけの人生ですから、楽しんでいただきたい。
 
 抜粋 引用元: http://enrique5581.net/nakano-nobuko-life-brain/
-
-
-* 我们来测试以下内联样式吧
-<style type="text/css" rel="stylesheet">
-.example { 
-    color: red; 
-    font-size: 1.5em;
+<style>
+    body {
+      background: lightcyan；
+      width：８００px；
+    　　　　margin：auto；
+    }
+    p{
+      color: gray;
+      border: 1px solid gray;
+      [adding: 10px;
     }
 </style>
 
-<p id="example">
-世界的奇妙程度远远超越我们的想象，爱因斯坦的理论为我们解开了探索宇宙的新篇章。
-<p/>
+<p>おまけの人生ですから、楽しんでいただきたい。</p>
+    
