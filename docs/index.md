@@ -16,17 +16,9 @@
 おまけの人生ですから、楽しんでいただきたい。
 
 抜粋 引用元: http://enrique5581.net/nakano-nobuko-life-brain/
+
 <style>
-    body {
-      background: lightcyan；
-      width：８００px；
-    　　　　margin：auto；
-    }
-    p{
-      color: gray;
-      border: 1px solid gray;
-      [adding: 10px;
-    }
+
 </style>
 
 <p>おまけの人生ですから、楽しんでいただきたい。</p>
